@@ -12,7 +12,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(guerra\ fria\ 3.gif) no-repeat; 
+    background: url(muita\ guerra.gif) no-repeat; 
     background-size: cover;
     background-position: center;
 }
@@ -138,6 +138,11 @@ body
 {
     text-decoration: underline;
 } 
+
+a{
+    outline: none;
+    text-decoration: none;
+}
 
 
 
